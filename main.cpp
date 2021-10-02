@@ -247,7 +247,6 @@ void findDistance() {
 
 int main() {
     findDistance();
-    coordinate s1;
-    s1.getX();
+
     return 0;
 }
